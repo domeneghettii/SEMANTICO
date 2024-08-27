@@ -1,0 +1,19 @@
+/*Reset basico para consistencia entre navegadores! */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    background-color: rgb(184, 173, 233);
+    color: aquamarine;
+}
+/* cabeçalho do site*/
+.site-header{
+    background-color: rgb(157, 236, 230);
+    color: beige;
+    padding: 1rem 0;
+    text-align: center;
+}
